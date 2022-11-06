@@ -8,7 +8,7 @@ public class Factorial2 {
             return(n*factorial(n-1));
     }
     public static void main(String[] args) {
-       int i, fact = 1, number;
+       int fact, number;
 
        System.out.println("Enter the number: ");
 
